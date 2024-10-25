@@ -1,0 +1,7 @@
+package com.easy2excel.springbootjunit5mockitoexample.exception;
+
+public class ContactNotFoundException extends RuntimeException {
+    public ContactNotFoundException(String message) {
+        super(message);
+    }
+}
