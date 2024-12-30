@@ -10,7 +10,8 @@
 	</parent>
 	<groupId>com.easy2excel</groupId>
 	<artifactId>springboot-junit5-mockito-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-SNPSHOT</version>
+	<!--<version>0.0.1-SNPSHOT</version>-->
 	<name>springboot-junit5-mockito-example</name>
 	<description>Demo project to perform unit test cases for a spring boot application using junit5 &amp; Mockito</description>
 	<properties>
